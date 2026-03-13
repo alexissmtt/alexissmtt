@@ -1,6 +1,6 @@
 # Hi, I'm Alexis 👋
 
-**MSc Data Science @ Paris 1 Panthéon-Sorbonne · Data Engineer in the making**
+**MSc Data Science @ Paris 1 Panthéon-Sorbonne · Data Engineer / Data Scientist in the making**
 
 I'm a data science student at Paris 1 Panthéon-Sorbonne, currently on a work-study contract at **Groupe BPCE** (2nd largest banking group in France) where I work on credit risk modelling (LGD pipelines, SAS, VBA automation). Previously interned as a financial analyst at **La Banque Postale**.
 
