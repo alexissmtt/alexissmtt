@@ -33,4 +33,4 @@ Exchange semester in China at **Peking University** (GPA 4.0/4.0).
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-mt)
-[![Email](https://img.shields.io/badge/EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alexis.mattei404@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alexis.mattei404@gmail.com)
