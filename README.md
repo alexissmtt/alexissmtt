@@ -1,8 +1,8 @@
 # Hi, I'm Alexis 👋
 
-**MSc Data Science @ Paris 1 Panthéon-Sorbonne · Aspiring Data Scientist in Energy & Finance**
+**MSc Data Science @ Paris 1 Panthéon-Sorbonne · Data Engineer / Data Scientist in the making**
 
-Data science student with hands-on experience in credit risk modelling at **Groupe BPCE** (France's 2nd largest banking group) and a strong interest in **energy data, sustainability analytics, and GenAI applications**. Exchange semester at **Peking University** (GPA 4.0/4.0).
+Data science student with hands-on experience in credit risk modelling at **Groupe BPCE** (France's 2nd largest banking group). Passionate about building end-to-end ML pipelines and GenAI applications from data to production. Exchange semester at **Peking University** (GPA 4.0/4.0).
 
 ---
 
