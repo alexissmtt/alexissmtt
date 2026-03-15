@@ -26,7 +26,7 @@ Exchange semester in China at **Peking University** (GPA 4.0/4.0).
 |---|---|---|
 | [hotel-booking-ml](https://github.com/alexissmtt/hotel-booking-ml) | Customer segmentation & cancellation prediction — GMM clustering, XGBoost, PCA on 36K bookings | Python, Scikit-learn |
 | [global-sustainable-energy](https://github.com/alexissmtt/global-sustainable-energy) | PCA & K-Means clustering on global energy data — country profiling & temporal evolution (2000–2020) | Python, Scikit-learn |
-| Crypto Crash Early-Warning | Critical Slowing Down indicators (AR1, skewness, Kendall's τ) on BTC/ETH pre-crash signals | SAS |
+| [analyse-crypto-csd](https://github.com/alexissmtt/analyse-crypto-csd) | Critical Slowing Down indicators (AR1, skewness, Kendall's τ) on BTC/ETH pre-crash signals | SAS |
 
 ---
 
